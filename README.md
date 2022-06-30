@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adamjscaldas
 - 👀 I’m interested in AI and automation.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on LITERALLY ANYTHING THAT INVOLVES PROGGRAMING
 - 📫 How to reach me adamjscaldas@outlook.com
 
 <!---
